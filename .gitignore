@@ -1,0 +1,6 @@
+#画像データはすべて無視する
+data/
+old_data/
+train_data/
+taro_data/
+actress_ex_data/
